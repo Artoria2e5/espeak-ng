@@ -14,11 +14,11 @@ dict_min 100000
 //for some dialects
 
 //[en]: replace ng with n
-//[zh]: �޺�������ng���n
+//[zh]: 将后鼻音 ng 换成前鼻音 n
 //replace 0 N n
 
 //[en]: replace rfx consonants
-//[zh]: �޾�������r���l��z��er���e
+//[zh]: 卷舌音变平
 //replace 0 ts.h tsh
 //replace 0 ts. ts
 //replace 0 s. s
@@ -28,10 +28,10 @@ dict_min 100000
 //replace 0 @r @
 
 //[en]: replace beginning n or l
-//[zh]: ����nl��n���l��l���n
+//[zh]: 将 n l 声母对调
 //replace 2 n l
 //replace 2 l n
 
 //[en]: replace beginning w with v
-//[zh]: w���v
+//[zh]: 将音节首 w 换为 v
 //replace 0 w  v
